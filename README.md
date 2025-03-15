@@ -16,5 +16,5 @@ To run this project locally, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YourUsername/ML_Model_Training_Project.git
+   git clone https://github.com/OVIE-web/ML_Model_Training_Project.git
    cd ML_Model_Training_Project
